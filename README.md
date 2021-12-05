@@ -2,7 +2,7 @@
 
 ## **Brief Summary:** 
 
-In this Module, I have benefited to gain and apply the knwoledge of analysing Bike-sharing data by using Tableau. In summary, Tableau is an advance version of Microsoft Excel and its Pivot tables. The only difference is that it can handle a very big data in few seconds ; excel, however, has limited number of rows and columuns and it can be sluggish when faced by a large amount of data. 
+In this Module, I have benefited to gain and apply the knowledge of analysing Bike-sharing data by using Tableau. In summary, Tableau is an advance version of Microsoft Excel and its Pivot tables. The only difference is that it can handle a very big data in few seconds ; excel, however, has limited number of rows and columuns and it can be sluggish when faced by a large amount of data. 
 
 The Project is based on analyses of Bike-sharing data on Des Moines. This is done to prove to investors that this business decision will be a prudential one by keeping NYC bike-sharing data as a base. 
 
