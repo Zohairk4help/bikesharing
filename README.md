@@ -51,7 +51,7 @@ The Project is based on analyses of Bike-sharing data on Des Moines. This is don
 After analysing the data, it is categorically seen that the males are the most active in the bike trips. 
 
 According to the "World Population Review",
-the popualtion is further expected to increase in Desmoines. Thus, Male population is surely tend to increase too. Therefore, the bike-sharing business in Des Moines is a wise one!
+the population is further expected to increase in Desmoines. Thus, Male population is surely tend to increase too. Therefore, the bike-sharing business in Des Moines is a wise one!
 
 Reference: https://worldpopulationreview.com/us-cities/des-moines-ia-population
 
